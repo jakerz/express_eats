@@ -3,6 +3,18 @@ Express.js full stack web application for managing meal ingredients and recipes
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Instructions
+
+### Run local dev
+- Install Docker desktop
+- Open using the VS Code plugin, `Dev Containers`
+- Project should open with `yarn` and `netlify-cli` installed
+- yarn (install dependencies)
+- yarn dev (run local dev server)
+
+### Deploy
+- netlify deploy
+
 ## Getting Started
 
 First, run the development server:
